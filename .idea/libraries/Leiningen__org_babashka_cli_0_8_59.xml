@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: org.babashka/cli:0.8.59">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/babashka/cli/0.8.59/cli-0.8.59.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
